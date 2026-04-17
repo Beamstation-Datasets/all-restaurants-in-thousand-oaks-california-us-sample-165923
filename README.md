@@ -1,6 +1,6 @@
 # All Restaurants in Thousand Oaks, California, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `165923` |
 | Location | Thousand Oaks |
 | Category | Restaurants |
-| Full dataset size | 199 records |
-| Free sample size | 19 records (9.55%) |
-| Last export | 2026-03-31T13:27:23.022280+00:00 |
+| Full dataset size | 304 records |
+| Free sample size | 30 records (9.87%) |
+| Last export | 2026-04-14T13:48:57.432725+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-thousand-oaks-california-us-sample-165923/releases/download/sample-latest/beamstation_165923_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
