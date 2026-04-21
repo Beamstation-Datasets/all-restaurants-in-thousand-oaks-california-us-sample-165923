@@ -9,9 +9,9 @@
 | Dataset ID | `165923` |
 | Location | Thousand Oaks |
 | Category | Restaurants |
-| Full dataset size | 304 records |
-| Free sample size | 30 records (9.87%) |
-| Last export | 2026-04-14T13:48:57.432725+00:00 |
+| Full dataset size | 300 records |
+| Free sample size | 30 records (10.0%) |
+| Last export | 2026-04-21T14:43:59.610828+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-thousand-oaks-california-us-sample-165923/releases/download/sample-latest/beamstation_165923_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
