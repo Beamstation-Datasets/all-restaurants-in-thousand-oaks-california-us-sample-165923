@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a1a62369-0174-4a74-b173-df4a2a9271c2",
+  "export_job_id": "2a8f202f-390a-4e48-86e3-5c8188038e4e",
   "id_short": 165923,
-  "published_at": "2026-04-21T19:07:00Z",
+  "published_at": "2026-04-28T19:06:12Z",
   "repo_name": "all-restaurants-in-thousand-oaks-california-us-sample-165923",
   "sample_asset_name": "beamstation_165923_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/165923/beamstation_165923_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 30,
-  "sample_sha256": "4f8b09486a24ee789a1936ef3c426f789c28f8ed14b96ecc8c9a527fa81626c0",
-  "sample_size_bytes": 107382,
-  "total_records": 300
+  "sample_records": 16,
+  "sample_sha256": "b76105863b64afa6511a375b87ac5a5dcb1c6513c97873f507ab919dddedff1f",
+  "sample_size_bytes": 66745,
+  "total_records": 168
 }
